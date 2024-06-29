@@ -4,7 +4,7 @@ object FL3 {
     for(i<- 1 to 50){
       a+=i
     }
-    print("Sum of 1 to 50 is "+(a))
+    print("Sum of 1 to 50 is "+a)
   }
 
 }
